@@ -39,12 +39,12 @@ export default function Page() {
             alt="Screenshots of the dashboard project showing desktop version"
           />
           <Image
-            src='/hero-mobile.png'
+            src="/hero-mobile.png"
             width={560}
             height={620}
             className='block md:hidden'
-            alt='Screenshots of the dashboard project showing mobile version'
-            />
+            alt="Screenshots of the dashboard project showin mobile version"
+          />
         </div>
       </div>
     </main>
